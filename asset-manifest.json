@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mint-website/static/css/main.3acb6924.css",
+    "main.js": "/mint-website/static/js/main.727659ff.js",
+    "static/media/street-bg.gif": "/mint-website/static/media/street-bg.638bcbe6ea823e35a1e7.gif",
+    "index.html": "/mint-website/index.html",
+    "main.3acb6924.css.map": "/mint-website/static/css/main.3acb6924.css.map",
+    "main.727659ff.js.map": "/mint-website/static/js/main.727659ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3acb6924.css",
+    "static/js/main.727659ff.js"
+  ]
+}
